@@ -1,0 +1,16 @@
+D:\Code\Product Inventory Project\bin\Debug\net5.0\Product Inventory Project.exe
+D:\Code\Product Inventory Project\bin\Debug\net5.0\Product Inventory Project.deps.json
+D:\Code\Product Inventory Project\bin\Debug\net5.0\Product Inventory Project.runtimeconfig.json
+D:\Code\Product Inventory Project\bin\Debug\net5.0\Product Inventory Project.runtimeconfig.dev.json
+D:\Code\Product Inventory Project\bin\Debug\net5.0\Product Inventory Project.dll
+D:\Code\Product Inventory Project\bin\Debug\net5.0\ref\Product Inventory Project.dll
+D:\Code\Product Inventory Project\bin\Debug\net5.0\Product Inventory Project.pdb
+D:\Code\Product Inventory Project\obj\Debug\net5.0\Product Inventory Project.csprojAssemblyReference.cache
+D:\Code\Product Inventory Project\obj\Debug\net5.0\Product Inventory Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Product Inventory Project\obj\Debug\net5.0\Product Inventory Project.AssemblyInfoInputs.cache
+D:\Code\Product Inventory Project\obj\Debug\net5.0\Product Inventory Project.AssemblyInfo.cs
+D:\Code\Product Inventory Project\obj\Debug\net5.0\Product Inventory Project.csproj.CoreCompileInputs.cache
+D:\Code\Product Inventory Project\obj\Debug\net5.0\Product Inventory Project.dll
+D:\Code\Product Inventory Project\obj\Debug\net5.0\ref\Product Inventory Project.dll
+D:\Code\Product Inventory Project\obj\Debug\net5.0\Product Inventory Project.pdb
+D:\Code\Product Inventory Project\obj\Debug\net5.0\Product Inventory Project.genruntimeconfig.cache
